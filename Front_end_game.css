@@ -1,3 +1,4 @@
+
 body{
 	border-top: 50px solid white;
 	border-bottom: 50px solid #aed9e0;
@@ -6,8 +7,6 @@ body{
 }
 .fluid{
 	background-color: #5e6472;
-	margin-left: 50px;
-	margin-right: 50px;
 	padding-top: 25px;
 	border-bottom: 25px solid #5e6472;
 }
@@ -29,9 +28,9 @@ table {
 .board button{
 	width: 100px;
 	height: 100px;
-	background-color: rgb(229,229,229);
+	background-color: rgb(128, 128, 128);
 	border-radius: 50px;
-	border: 3px solid #6d6875;
+	border: 3px solid rgb(229,229,229);
 	margin: 1px;
 }
 
